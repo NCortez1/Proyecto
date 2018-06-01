@@ -9,9 +9,7 @@ namespace GestionBasica.CLS
     class Editoriales
     {
         String _IDEditorial;
-        String _Nombre;
-        String _Direccion;
-        String _Telefono;
+        String _Editorial;
 
         public string IDEditorial
         {
@@ -26,42 +24,16 @@ namespace GestionBasica.CLS
             }
         }
 
-        public string Nombre
+        public string Editorial
         {
             get
             {
-                return _Nombre;
+                return _Editorial;
             }
 
             set
             {
-                _Nombre = value;
-            }
-        }
-
-        public string Direccion
-        {
-            get
-            {
-                return _Direccion;
-            }
-
-            set
-            {
-                _Direccion = value;
-            }
-        }
-
-        public string Telefono
-        {
-            get
-            {
-                return _Telefono;
-            }
-
-            set
-            {
-                _Telefono = value;
+                _Editorial = value;
             }
         }
 
@@ -69,10 +41,8 @@ namespace GestionBasica.CLS
         {
             Boolean ok = false;
             String Sentencia = String.Empty;
-            Sentencia += "INSERT INTO Editoriales(Nombre, Direccion, Telefono) VALUES(";
-            Sentencia += "'" + _Nombre + "',";
-            Sentencia += "'" + _Direccion + "',";
-            Sentencia += "'" + _Telefono + "'";
+            Sentencia += "INSERT INTO Editoriales(Editorial) VALUES(";
+            Sentencia += "'" + _Editorial + "'";
             Sentencia += ");";
             DataController.Operacion oOperacion = new DataController.Operacion();
             try
@@ -92,9 +62,7 @@ namespace GestionBasica.CLS
             Boolean ok = false;
             String Sentencia = String.Empty;
             Sentencia += "UPDATE Editoriales SET ";
-            Sentencia += "Nombre='" + _Nombre + "',";
-            Sentencia += "Direccion='" + _Direccion + "',";
-            Sentencia += "Telefono='" + _Telefono + "'";
+            Sentencia += "Editorial='" + _Editorial + "'";
             Sentencia += " WHERE IDEditorial=" + _IDEditorial + ";";
             DataController.Operacion oOperacion = new DataController.Operacion();
             try
