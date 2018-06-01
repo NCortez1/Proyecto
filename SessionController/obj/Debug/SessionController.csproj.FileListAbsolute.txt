@@ -1,0 +1,70 @@
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\SessionController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\MySql.Data.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\CacheController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\bin\Debug\DataController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\SessionController\obj\Debug\SessionController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\MySql.Data.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\SessionController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\MySql.Data.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\SessionController\obj\Debug\SessionController.pdb

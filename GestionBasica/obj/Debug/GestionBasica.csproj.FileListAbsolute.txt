@@ -1,0 +1,166 @@
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\GestionBasica.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\MySql.Data.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\CacheController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\DataController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\bin\Debug\SessionController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\GestionBasica\obj\Debug\GestionBasica.pdb
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.dll
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.pdb
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.dll
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.dll
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.dll
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\MySql.Data.dll
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.pdb
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.pdb
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.pdb
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.dll
+D:\Memoria\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\MySql.Data.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\Functions.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\Functions.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.Properties.Resources.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.Properties.Resources.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\GestionBasica.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\Functions.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\MySql.Data.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\Functions.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\bin\Debug\SessionController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEditoriales.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEditorial.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionAutores.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionAutor.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionCategoria.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionCategorias.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionLibros.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionLibro.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEjemplar.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEjemplares.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionLectores.resources
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionLector.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionAutor.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionCategoria.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEditorial.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEjemplar.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionEmpleado.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionLector.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionLibro.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionRol.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.EdicionUsuario.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionAutores.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionCategorias.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEditoriales.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEjemplares.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionEmpleados.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionLectores.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionLibros.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionRoles.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.GestionUsuarios.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.GUI.Permisos.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.Properties.Resources.resources
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.csproj.GenerateResource.Cache
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.dll
+C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\GestionBasica\obj\Debug\GestionBasica.pdb

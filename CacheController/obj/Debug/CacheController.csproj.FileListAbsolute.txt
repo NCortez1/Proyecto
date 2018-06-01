@@ -1,0 +1,56 @@
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\bin\Debug\CacheController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\bin\Debug\CacheController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\bin\Debug\DataController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.dll
+E:\ARCHIVOS\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\bin\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\bin\Debug\CacheController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\bin\Debug\DataController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\bin\Debug\MySql.Data.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\bin\Debug\DataController.pdb
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.dll
+C:\Users\PC-44\Desktop\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\bin\Debug\CacheController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\bin\Debug\CacheController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\bin\Debug\DataController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\bin\Debug\MySql.Data.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\bin\Debug\DataController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\CacheController\obj\Debug\CacheController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\MySql.Data.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\MySql.Data.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\MySql.Data.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\CacheController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\MySql.Data.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.dll
+C:\Users\Nelson\Desktop\Proyecto\Sistema de Gestion Bibliotecaria\CacheController\obj\Debug\CacheController.pdb

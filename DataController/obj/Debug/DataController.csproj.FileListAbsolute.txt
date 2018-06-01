@@ -1,0 +1,28 @@
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\DataController.pdb
+E:\ARCHIVOS\Sistema de Facturacion\DataController\bin\Debug\MySql.Data.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.dll
+E:\ARCHIVOS\Sistema de Facturacion\DataController\obj\Debug\DataController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\DataController\bin\Debug\DataController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\DataController\bin\Debug\DataController.pdb
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\DataController\bin\Debug\MySql.Data.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\DataController\obj\Debug\DataController.dll
+E:\Desarrollo de Software II\Clase 6\USO Sistema de Facturacion\DataController\obj\Debug\DataController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\DataController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\DataController.pdb
+E:\Proyecto\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\MySql.Data.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+E:\Proyecto\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.dll
+E:\Proyecto\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\DataController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\DataController.pdb
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.dll
+C:\Users\Elenilson\Desktop\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\DataController\bin\Debug\DataController.pdb
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.dll
+C:\Users\Nelson\Desktop\Sistema de Gestion Bibliotecaria\DataController\obj\Debug\DataController.pdb

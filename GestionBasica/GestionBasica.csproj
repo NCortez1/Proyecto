@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7B3C21B9-7FA9-4EA8-BB68-0BFA32381120}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestionBasica</RootNamespace>
+    <AssemblyName>GestionBasica</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DataController\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLS\Autores.cs" />
+    <Compile Include="CLS\Categorias.cs" />
+    <Compile Include="CLS\Editoriales.cs" />
+    <Compile Include="CLS\Ejemplares.cs" />
+    <Compile Include="CLS\Empleados.cs" />
+    <Compile Include="CLS\Lectores.cs" />
+    <Compile Include="CLS\Libros.cs" />
+    <Compile Include="CLS\Permisos.cs" />
+    <Compile Include="CLS\Prestamos.cs" />
+    <Compile Include="CLS\Roles.cs" />
+    <Compile Include="CLS\Usuarios.cs" />
+    <Compile Include="GUI\EdicionAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionAutor.Designer.cs">
+      <DependentUpon>EdicionAutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionCategoria.Designer.cs">
+      <DependentUpon>EdicionCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionEditorial.Designer.cs">
+      <DependentUpon>EdicionEditorial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionEjemplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionEjemplar.Designer.cs">
+      <DependentUpon>EdicionEjemplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionEmpleado.Designer.cs">
+      <DependentUpon>EdicionEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionLector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionLector.Designer.cs">
+      <DependentUpon>EdicionLector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionLibro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionLibro.Designer.cs">
+      <DependentUpon>EdicionLibro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionRol.Designer.cs">
+      <DependentUpon>EdicionRol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\EdicionUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EdicionUsuario.Designer.cs">
+      <DependentUpon>EdicionUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionAutores.Designer.cs">
+      <DependentUpon>GestionAutores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionCategorias.Designer.cs">
+      <DependentUpon>GestionCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionEditoriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionEditoriales.Designer.cs">
+      <DependentUpon>GestionEditoriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionEjemplares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionEjemplares.Designer.cs">
+      <DependentUpon>GestionEjemplares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionEmpleados.Designer.cs">
+      <DependentUpon>GestionEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionLectores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionLectores.Designer.cs">
+      <DependentUpon>GestionLectores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionLibros.Designer.cs">
+      <DependentUpon>GestionLibros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionRoles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionRoles.Designer.cs">
+      <DependentUpon>GestionRoles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GestionUsuarios.Designer.cs">
+      <DependentUpon>GestionUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Permisos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Permisos.Designer.cs">
+      <DependentUpon>Permisos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GUI\EdicionAutor.resx">
+      <DependentUpon>EdicionAutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionCategoria.resx">
+      <DependentUpon>EdicionCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionEditorial.resx">
+      <DependentUpon>EdicionEditorial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionEjemplar.resx">
+      <DependentUpon>EdicionEjemplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionEmpleado.resx">
+      <DependentUpon>EdicionEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionLector.resx">
+      <DependentUpon>EdicionLector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionLibro.resx">
+      <DependentUpon>EdicionLibro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionRol.resx">
+      <DependentUpon>EdicionRol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\EdicionUsuario.resx">
+      <DependentUpon>EdicionUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionAutores.resx">
+      <DependentUpon>GestionAutores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionCategorias.resx">
+      <DependentUpon>GestionCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionEditoriales.resx">
+      <DependentUpon>GestionEditoriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionEjemplares.resx">
+      <DependentUpon>GestionEjemplares.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionEmpleados.resx">
+      <DependentUpon>GestionEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionLectores.resx">
+      <DependentUpon>GestionLectores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionLibros.resx">
+      <DependentUpon>GestionLibros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionRoles.resx">
+      <DependentUpon>GestionRoles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GestionUsuarios.resx">
+      <DependentUpon>GestionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Permisos.resx">
+      <DependentUpon>Permisos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CacheController\CacheController.csproj">
+      <Project>{e29d22da-bd7b-45ff-8382-52512ec92389}</Project>
+      <Name>CacheController</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataController\DataController.csproj">
+      <Project>{65f20496-7205-469f-a3e3-6170423e75a0}</Project>
+      <Name>DataController</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Functions\Functions.csproj">
+      <Project>{1734ee9a-c60f-4953-a97f-d9a3d3dd585a}</Project>
+      <Name>Functions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SessionController\SessionController.csproj">
+      <Project>{744d8f84-5b82-4b26-986d-dc17707f5b56}</Project>
+      <Name>SessionController</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
