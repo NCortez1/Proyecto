@@ -10,7 +10,6 @@ namespace GestionBasica.CLS
     {
         String _IDCategoria;
         String _Categoria;
-        String _Estandares;
 
         public string IDCategoria
         {
@@ -38,26 +37,12 @@ namespace GestionBasica.CLS
             }
         }
 
-        public string Estandares
-        {
-            get
-            {
-                return _Estandares;
-            }
-
-            set
-            {
-                _Estandares = value;
-            }
-        }
-
         public Boolean Insertar()
         {
             Boolean ok = false;
             String Sentencia = String.Empty;
-            Sentencia += "INSERT INTO Categorias(Categoria, Estandares) VALUES(";
-            Sentencia += "'" + _Categoria + "',";
-            Sentencia += "'" + _Estandares + "'";
+            Sentencia += "INSERT INTO Categorias(Categoria) VALUES(";
+            Sentencia += "'" + _Categoria + "'";
             Sentencia += ");";
             DataController.Operacion oOperacion = new DataController.Operacion();
             try
@@ -77,8 +62,7 @@ namespace GestionBasica.CLS
             Boolean ok = false;
             String Sentencia = String.Empty;
             Sentencia += "UPDATE Categorias SET ";
-            Sentencia += "Categoria='" + _Categoria + "',";
-            Sentencia += "Estandares='" + _Estandares + "'";
+            Sentencia += "Categoria='" + _Categoria + "'";
             Sentencia += " WHERE IDCategoria=" + _IDCategoria + ";";
             DataController.Operacion oOperacion = new DataController.Operacion();
             try
