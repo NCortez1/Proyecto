@@ -10,6 +10,7 @@ namespace GestionBasica.CLS
     {
         String _IDCategoria;
         String _Categoria;
+        String Prueba;
 
         public string IDCategoria
         {
