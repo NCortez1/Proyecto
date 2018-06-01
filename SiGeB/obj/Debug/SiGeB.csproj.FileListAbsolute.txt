@@ -157,3 +157,4 @@ C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\SiGeB\obj\Debu
 C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\SiGeB\obj\Debug\SIF.Splash.resources
 C:\Users\Nelson\Documents\GitHub\Sistema de Gestion Bibliotecaria\SiGeB\obj\Debug\SiGeB.csproj.GenerateResource.Cache
 C:\Users\Nelson\Source\Repos\Proyecto\SiGeB\bin\Debug\SiGeB.exe.config
+C:\Users\Elenilson\Source\Repos\Proyecto\SiGeB\bin\Debug\SiGeB.exe.config
