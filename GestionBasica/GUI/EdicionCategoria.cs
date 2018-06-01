@@ -23,7 +23,6 @@ namespace GestionBasica.GUI
             CLS.Categorias oCategoria = new CLS.Categorias();
             oCategoria.IDCategoria = txtIDCategoria.Text;
             oCategoria.Categoria = txtCategoria.Text;
-            oCategoria.Estandares = txtEstandares.Text;
             if (txtIDCategoria.TextLength > 0)
             {
                 if (oCategoria.Actualzar())

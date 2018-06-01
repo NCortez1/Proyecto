@@ -29,8 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(EdicionCategoria));
-            this.label4 = new System.Windows.Forms.Label();
-            this.txtEstandares = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.txtCategoria = new System.Windows.Forms.TextBox();
@@ -38,23 +36,6 @@
             this.btnGuardar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(19, 114);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(60, 13);
-            this.label4.TabIndex = 35;
-            this.label4.Text = "Estandares";
-            // 
-            // txtEstandares
-            // 
-            this.txtEstandares.Location = new System.Drawing.Point(91, 111);
-            this.txtEstandares.Multiline = true;
-            this.txtEstandares.Name = "txtEstandares";
-            this.txtEstandares.Size = new System.Drawing.Size(178, 58);
-            this.txtEstandares.TabIndex = 34;
             // 
             // label2
             // 
@@ -78,7 +59,7 @@
             // 
             this.txtCategoria.Location = new System.Drawing.Point(91, 66);
             this.txtCategoria.Name = "txtCategoria";
-            this.txtCategoria.Size = new System.Drawing.Size(178, 20);
+            this.txtCategoria.Size = new System.Drawing.Size(156, 20);
             this.txtCategoria.TabIndex = 30;
             this.txtCategoria.TextChanged += new System.EventHandler(this.txtCategoria_TextChanged);
             // 
@@ -92,7 +73,7 @@
             // 
             // btnGuardar
             // 
-            this.btnGuardar.Location = new System.Drawing.Point(101, 194);
+            this.btnGuardar.Location = new System.Drawing.Point(91, 114);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(75, 23);
             this.btnGuardar.TabIndex = 28;
@@ -102,7 +83,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(182, 194);
+            this.btnCancelar.Location = new System.Drawing.Point(172, 114);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
             this.btnCancelar.TabIndex = 27;
@@ -114,9 +95,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(338, 243);
-            this.Controls.Add(this.label4);
-            this.Controls.Add(this.txtEstandares);
+            this.ClientSize = new System.Drawing.Size(280, 162);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtCategoria);
@@ -132,8 +111,6 @@
         }
 
         #endregion
-        private System.Windows.Forms.Label label4;
-        public System.Windows.Forms.TextBox txtEstandares;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         public System.Windows.Forms.TextBox txtCategoria;
