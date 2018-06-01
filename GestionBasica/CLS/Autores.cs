@@ -9,9 +9,7 @@ namespace GestionBasica.CLS
     class Autores
     {
         String _IDAutor;
-        String _Nombre;
-        String _Fecha_Nacimiento;
-        String _Residencia;
+        String _Autor;
 
         public string IDAutor
         {
@@ -26,42 +24,16 @@ namespace GestionBasica.CLS
             }
         }
 
-        public string Nombre
+        public string Autor
         {
             get
             {
-                return _Nombre;
+                return _Autor;
             }
 
             set
             {
-                _Nombre = value;
-            }
-        }
-
-        public string Fecha_Nacimiento
-        {
-            get
-            {
-                return _Fecha_Nacimiento;
-            }
-
-            set
-            {
-                _Fecha_Nacimiento = value;
-            }
-        }
-
-        public string Residencia
-        {
-            get
-            {
-                return _Residencia;
-            }
-
-            set
-            {
-                _Residencia = value;
+                _Autor = value;
             }
         }
 
@@ -69,10 +41,8 @@ namespace GestionBasica.CLS
         {
             Boolean ok = false;
             String Sentencia = String.Empty;
-            Sentencia += "INSERT INTO Autores(Nombre, Fecha_Nacimiento, Residencia) VALUES(";
-            Sentencia += "'" + _Nombre + "',";
-            Sentencia += "'" + _Fecha_Nacimiento + "',";
-            Sentencia += "'" + _Residencia + "'";
+            Sentencia += "INSERT INTO Autores(Autor) VALUES(";
+            Sentencia += "'" + _Autor + "'";
             Sentencia += ");";
             DataController.Operacion oOperacion = new DataController.Operacion();
             try
@@ -92,9 +62,7 @@ namespace GestionBasica.CLS
             Boolean ok = false;
             String Sentencia = String.Empty;
             Sentencia += "UPDATE Autores SET ";
-            Sentencia += "Nombre='" + _Nombre + "',";
-            Sentencia += "Fecha_Nacimiento='" + _Fecha_Nacimiento + "',";
-            Sentencia += "Residencia='" + _Residencia + "'";
+            Sentencia += "Autor='" + _Autor + "'";
             Sentencia += " WHERE IDAutor=" + _IDAutor + ";";
             DataController.Operacion oOperacion = new DataController.Operacion();
             try
