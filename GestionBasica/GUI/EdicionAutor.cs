@@ -22,9 +22,7 @@ namespace GestionBasica.GUI
         {
             CLS.Autores oAutor = new CLS.Autores();
             oAutor.IDAutor = txtIDAutor.Text;
-            oAutor.Nombre = txtAutor.Text;
-            oAutor.Fecha_Nacimiento = dtFecha.Text;
-            oAutor.Residencia = txtResidencia.Text;
+            oAutor.Autor = txtAutor.Text;
             if (txtIDAutor.TextLength > 0)
             {
                 if (oAutor.Actualzar())
@@ -59,7 +57,7 @@ namespace GestionBasica.GUI
         //------------------------- Validaciones ---------------------------
         private void ValidarNoNulo()
         {
-            if ((txtAutor.TextLength > 0) && (txtResidencia.TextLength > 0))
+            if (txtAutor.TextLength > 0)
             {
                 btnGuardar.Enabled = true;
             }
@@ -70,11 +68,6 @@ namespace GestionBasica.GUI
         }
 
         private void txtAutor_TextChanged(object sender, EventArgs e)
-        {
-            ValidarNoNulo();
-        }
-
-        private void txtResidencia_TextChanged(object sender, EventArgs e)
         {
             ValidarNoNulo();
         }
